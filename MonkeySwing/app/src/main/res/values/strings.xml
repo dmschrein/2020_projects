@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MonkeyBusiness</string>
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="_x">X</string>
+    <string name="tap_the_screen_to_swing_monkey_n_n_avoid_spiders_to_avoid_death_n_n_grab_bananas_as_you_swing_to_collect_points_n">+Tap the screen to swing monkey!\n\n +Avoid spiders to avoid death.\n\n +Grab bananas as you swing to collect points!\n</string>
+    <string name="instructions">Instructions:</string>
+</resources>
